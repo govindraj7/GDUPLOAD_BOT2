@@ -1,8 +1,8 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
+    BOT_TOKEN = "6489219070:AAG6c8ESNSnUATiEnSCypzvMdKsEC0MdGvk"
+    APP_ID = "24191145"
+    API_HASH = "0c36521ebcad047d82a7a00430ee8780"
+    DATABASE_URL = "mongodb+srv://shashank:thanos2006@cluster0.qmqabf0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     SUDO_USERS = "" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
